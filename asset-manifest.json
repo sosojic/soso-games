@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/soso-games/static/css/main.c67d55ef.css",
-    "main.js": "/soso-games/static/js/main.09db8145.js",
+    "main.css": "/soso-games/static/css/main.01c454d2.css",
+    "main.js": "/soso-games/static/js/main.af6f32da.js",
     "static/js/453.8a916e45.chunk.js": "/soso-games/static/js/453.8a916e45.chunk.js",
     "index.html": "/soso-games/index.html",
-    "main.c67d55ef.css.map": "/soso-games/static/css/main.c67d55ef.css.map",
-    "main.09db8145.js.map": "/soso-games/static/js/main.09db8145.js.map",
+    "main.01c454d2.css.map": "/soso-games/static/css/main.01c454d2.css.map",
+    "main.af6f32da.js.map": "/soso-games/static/js/main.af6f32da.js.map",
     "453.8a916e45.chunk.js.map": "/soso-games/static/js/453.8a916e45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c67d55ef.css",
-    "static/js/main.09db8145.js"
+    "static/css/main.01c454d2.css",
+    "static/js/main.af6f32da.js"
   ]
 }
