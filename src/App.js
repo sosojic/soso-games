@@ -6,8 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1> Bienvenue sur les jeux de sofiétés </h1>
-        <p> Des jeux arrivent bientôt, reste connecté·e...</p>
-        <p>PS: vous me manquez</p> 
+        <p> Des jeux arrivent bientôt, reste connecté...</p>
       </header>
     </div>
   );
