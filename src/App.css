@@ -1,12 +1,11 @@
 .App {
   text-align: center;
-  background-color: #1e1e2f;
+  background-color: #ff9500;
   min-height: 100vh;
   color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  font-family: 'Segoe UI', sans-serif;
 }
 
 .App-header h1 {
